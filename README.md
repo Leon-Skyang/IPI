@@ -15,8 +15,15 @@
 - `IPI.blend`：Blender 源文件。
 - `IPI-blender.py`：与源文件对应的 Blender Python 建模脚本，按当时的建模环境原样保存。
 - `index.html`、`assets/` 和 `IPI.glb`：Three.js 交互式网页版本。
+- `videos/IPI_Process_English_1080p.mp4`：90 秒英文工作原理演示视频。
 
 在线演示：<https://ipi-threejs-visualization.pages.dev/>
+
+### 工作原理视频
+
+[打开视频文件（MP4，90 秒，1080p）](videos/IPI_Process_English_1080p.mp4) · [直接下载](https://github.com/Leon-Skyang/IPI/raw/refs/heads/main/videos/IPI_Process_English_1080p.mp4)
+
+视频以 Three.js 动画与 HyperFrames 剪辑展示排气充水、润湿与暗平衡、PES 膜交换、光照、分层取样和 ferrozine 显色测定，配有简短的英式英语 AI 旁白与轻配乐。粒子运动和实验时间采用示意表达。配乐署名与文件信息见 [视频说明](videos/README.md)。
 
 ## English
 
@@ -31,5 +38,12 @@ We extend our deepest and most sincere gratitude, together with our highest resp
 - `IPI.blend`: the Blender source file.
 - `IPI-blender.py`: the corresponding Blender Python modeling script, preserved as used in the original modeling environment.
 - `index.html`, `assets/`, and `IPI.glb`: the interactive Three.js web version.
+- `videos/IPI_Process_English_1080p.mp4`: a 90-second English process explainer.
 
 Live demo: <https://ipi-threejs-visualization.pages.dev/>
+
+### Process Video
+
+[Open the video file (MP4, 90 seconds, 1080p)](videos/IPI_Process_English_1080p.mp4) · [Direct download](https://github.com/Leon-Skyang/IPI/raw/refs/heads/main/videos/IPI_Process_English_1080p.mp4)
+
+The video uses Three.js animation and HyperFrames editing to explain deoxygenation and priming, wetting and dark equilibration, PES membrane exchange, illumination, depth-resolved sampling, and ferrozine measurement. It includes brief AI-generated British English narration and quiet background music. Particle motion and experimental time are schematic. See the [video notes](videos/README.md) for credits and file details.
